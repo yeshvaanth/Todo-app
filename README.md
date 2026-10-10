@@ -216,4 +216,4 @@ The backend service tests cover validation, CRUD operations, missing records, an
 
 The Postman collection is provided in:
 
-`backend/postman/Ziptr
+`backend/postman
