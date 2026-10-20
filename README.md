@@ -1,6 +1,6 @@
 # To-Do Application
 
-A full-stack To-Do application developed as part of the Ziptrrip assignment. The application allows users to manage tasks, track their status, search and filter todos, and view individual task details.
+A full-stack To-Do application The application allows users to manage tasks, track their status, search and filter todos, and view individual task details.
 
 ## Features
 
@@ -82,7 +82,7 @@ CREATE DATABASE ziptrrip_todo;
 3. Select the database:
 
 ```sql
-USE ziptrrip_todo;
+USE trrip_todo;
 ```
 
 4. Create the `todos` table:
@@ -118,7 +118,7 @@ PORT=5000
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=your_mysql_password
-DB_NAME=ziptrrip_todo
+DB_NAME=***_todo
 DB_PORT=3306
 ```
 
