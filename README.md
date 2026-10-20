@@ -76,7 +76,7 @@ Install the following before running the application:
 2. Create the database:
 
 ```sql
-CREATE DATABASE ziptrrip_todo;
+CREATE DATABASE DB_todo;
 ```
 
 3. Select the database:
